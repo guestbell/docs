@@ -1,0 +1,22 @@
+{
+  "name": "guestbell-docs",
+  "version": "1.0.0",
+  "description": "GuestBell docs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guestbell/docs.git"
+  },
+  "author": "GuestBell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guestbell/docs/issues"
+  },
+  "homepage": "https://github.com/guestbell/docs#readme"
+}
