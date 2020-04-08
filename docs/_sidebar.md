@@ -1,3 +1,4 @@
+- [Dashboard Basics](overview.md)
 - [Home](home.md)
 - [Quick start](quickstart.md)
 - Sections
