@@ -15,7 +15,7 @@ GuestBell account is not bound to only one property. You can use your account to
 ![alt text](https://static.guestbell.com/img/docs/overview/switchRoles.jpg "")
 
 ### Notifications
-Every time your property receives new order or chat message you will be able to see notification in top right corner and also in the Side Bar Menu. If your property decides to offer guest applications in more than one language you will have to translate content for guests. You can see your multilingual content clicking on language icon in top right corner. We will also alert you if some content is missing translation. You can learn more about Languages here. 
+Every time your property receives new order or chat message you will be able to see notification in top right corner and also in the Side Bar Menu. If your property decides to offer guest applications in more than one language you will have to translate content for guests. You can see your multilingual content clicking on language icon in top right corner. We will also alert you if some content is missing translation. Learn more about [Languages](http://localhost:3000/#/languages).
 
 
 ![alt text](https://static.guestbell.com/img/docs/overview/notifications.jpg "")
