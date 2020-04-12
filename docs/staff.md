@@ -1,6 +1,6 @@
 # Staff
-You can easily invite your employees into GuestBell. Navigate to **Property -> Staff** and click **ADD EMPLOYEE** Button. You will then fill in Job Title, add Permission Group and email of your employee.
-GuestBell will then sent invite email to your employee.
+You can easily invite your employees into GuestBell. Navigate to **Property -> Staff** and click **ADD EMPLOYEE** Button. You will then fill in Job Title, add **[Permission Group](permissions.md).** and email of your employee.
+GuestBell will then sent invite email to your employee. 
 
 ![alt text](https://static.guestbell.com/img/docs/overview/staff.jpg)
 
