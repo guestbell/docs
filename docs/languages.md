@@ -1,5 +1,4 @@
 # Languages
-
 GuestBell offers possibility to make your content multilingual. Guests can then choose what language will they use in the Guest app. You can add extra language in **Property -> Edit Property**
 
 ![alt text](https://static.guestbell.com/img/docs/overview/languages.jpg)
