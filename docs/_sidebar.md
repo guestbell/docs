@@ -1,11 +1,11 @@
 - [Dashboard Basics](overview.md)
-- Sections
-  - [Property](property.md)
+- Topics
   - [Reviews](reviews.md)
   - [Permissions](permissions.md)
   - [Languages](languages.md)
   - [Staff](staff.md)
   - [Images](images.md)
+  - [Chat](chat.md)
 - [FAQ](faq.md)
 - **Links**
 - [![Guest App](https://icongr.am/feather/user.svg?size=16&color=808080)GuestApp](https://guest.guestbell.com)
