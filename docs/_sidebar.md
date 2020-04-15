@@ -10,5 +10,5 @@
 - [FAQ](faq.md)
 - **Links**
 - [![Guest App](https://icongr.am/feather/user.svg?size=16&color=808080)GuestApp](https://guest.guestbell.com)
-- [![DashBoard](https://icongram.jgog.in/feather/monitor.svg?color=808080&size=16)Dashboard](https://dashboard.guestbell.com)
+- [![DashBoard](https://icongr.am/feather/monitor.svg?color=808080&size=16)Dashboard](https://dashboard.guestbell.com)
 - [![Api](https://icongr.am/feather/code.svg?size=16&color=808080)Api](https://api.guestbell.com)
