@@ -9,6 +9,6 @@ You can manage order after you click on **DETAILS** Button next to each order.
 
 ![alt text](https://static.guestbell.com/img/docs/orders/ordersDetails.jpg)
 
-Here you will find all necessary information about order, as well as action to manage it. You can also Modify order in case something came up during the process.
+Here you will find all necessary information about order, as well as actions to manage it. You can also Modify order in case something came up during the process.
 
 ?> **Tip** You can keep track if somebody already PAID for order. Press **ACCEPT PAYMENT** Button in **Order Details** in case guest already settled his outstanding invoice. Please keep in mind that GuestBell doesn't handle the payment process.
