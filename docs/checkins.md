@@ -10,6 +10,8 @@ Check-In Modal will appear and you can start filling in the details. In order to
 
 ?> **Tip** You can automatize Check-In process by connecting your Property Management System with GuestBell. **Learn more about [Integrations](integrations.md).**.
 
+You can also create Check-In in **Property -> Rooms**. **Learn more about [Rooms](rooms.md).**
+
 ## Self Check-In
 
 You can allow your guest to Check-In on their own, without having access to email/text message invitation. Navigate to **Property -> Edit Property** and go to section **Self Check-In**
