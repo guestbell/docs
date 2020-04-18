@@ -6,7 +6,7 @@ Permission groups allow you to create different roles in your property. These ro
 
 Here you can create new permission groups using the button in the top right corner, or edit existing permission groups in the table.
 
-![alt text](https://static.guestbell.com/img/docs/permissions/permissions.jpg "")
+![permissions](https://static.guestbell.com/img/docs/permissions/permissions.jpg "")
 
 GuestBell functionality is broken into a lot of smaller parts. For example chat, check-ins, reviews ... You can configure access to these areas here. You even have fine grained control of what kind of access level do you want to allow. For example, you might want to allow all employees to see existing rooms but not allow them to delete or create new ones. 
 
@@ -18,9 +18,9 @@ For each combination of feature and access level you have 3 options:
 You can assign permissions groups to your employees by navigating to
 **Navigate to Property -> Staff**
 
-![alt text](https://static.guestbell.com/img/docs/permissions/permissionsStaff.jpg "")
+![permissions staff](https://static.guestbell.com/img/docs/permissions/permissionsStaff.jpg "")
 
 ## My Permissions
 Each user in GuestBell can check out their permissions.
 
-![alt text](https://static.guestbell.com/img/docs/permissions/myPermissions.jpg "")
+![my permissions](https://static.guestbell.com/img/docs/permissions/myPermissions.jpg "")
