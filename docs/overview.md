@@ -2,7 +2,7 @@
 
 Learn about using the Dashboard to operate your GuestBell account. The GuestBell Dashboard is a feature-rich user interface for you to operate and configure your property. Overview page provides useful at-a-glance information about the plan & property on your account. It also shows recent activity that may require you to take action, such as unanswered chat messages or orders.
 
-![alt text](https://static.guestbell.com/img/docs/overview/overview.jpg)
+![overview](https://static.guestbell.com/img/docs/overview/overview.jpg)
 
 ## Navigating in Dashboard
 
@@ -14,13 +14,13 @@ GuestBell account is not bound to only one property. You can use your account to
 
 **You can switch between roles by clicking on down arrow in the top of Side Bar Menu.**
 
-![alt text](https://static.guestbell.com/img/docs/overview/switchRoles.jpg)
+![roles](https://static.guestbell.com/img/docs/overview/switchRoles.jpg)
 
 ### Notifications
 
 Every time your property receives new order or chat message you will be able to see notification in top right corner and also in the Side Bar Menu. If your property decides to offer guest applications in more than one language you will have to translate content for guests. You can see your multilingual content clicking on language icon in top right corner. We will also alert you if some content is missing translation. **Learn more about [Languages](languages.md).**
 
-![alt text](https://static.guestbell.com/img/docs/overview/notifications.jpg)
+![notifications](https://static.guestbell.com/img/docs/overview/notifications.jpg)
 
 ### Options
 
@@ -32,4 +32,4 @@ First top right corner icon is dedicated to Options, where you have:
 - Exit Dashboard
 - Log Out.
 
-![alt text](https://static.guestbell.com/img/docs/overview/optionsAccount.jpg)
+![options](https://static.guestbell.com/img/docs/overview/optionsAccount.jpg)

@@ -8,4 +8,4 @@ Agile board for orders keeps track of every action related to order.
 
 **Navigate to Agile Boards -> Orders**. You can also click **FULLSCREEN** Button to maximize view of the board.
 
-![alt text](https://static.guestbell.com/img/docs/agileOrders/agileOrder.jpg)
+![agile board](https://static.guestbell.com/img/docs/agileOrders/agileOrder.jpg "")

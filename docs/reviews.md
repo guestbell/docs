@@ -3,7 +3,7 @@ Feedback from your guests is very valuable and can help you grow your business. 
 
 **For review score of each service navigate to Property -> Services -> Items -> Details**
 
-![alt text](https://static.guestbell.com/img/docs/reviews/reviewNumber.jpg "")
+![score](https://static.guestbell.com/img/docs/reviews/reviewNumber.jpg "")
 
 
-![alt text](https://static.guestbell.com/img/docs/reviews/review.jpg "")
+![review](https://static.guestbell.com/img/docs/reviews/review.jpg "")

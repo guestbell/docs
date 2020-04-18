@@ -3,4 +3,4 @@ GuestBell give you opportunity to make your content irresistible for guests. You
 
 **You can see all your images in Property -> Images**
 
-![alt text](https://static.guestbell.com/img/docs/images/images.jpg "")
+![images](https://static.guestbell.com/img/docs/images/images.jpg "")
