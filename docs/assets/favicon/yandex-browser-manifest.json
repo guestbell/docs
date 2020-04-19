@@ -2,7 +2,7 @@
   "version": "96dce13",
   "api_version": 1,
   "layout": {
-    "logo": "/assets/favicon/yandex-browser-50x50.png",
+    "logo": "https://raw.githubusercontent.com/guestbell/docs/master/docs/assets/favicon/yandex-browser-50x50.png",
     "color": "#323232",
     "show_title": true
   }
