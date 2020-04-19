@@ -1,0 +1,14 @@
+{
+  "version": "96dce13",
+  "name": "GuestBell Stg",
+  "description": "GuestBell is a revolutionary online room service system. It's built for the most important people in the world, your guests.",
+  "icons": {
+    "60": "/assets/favicon/firefox_app_60x60.png",
+    "128": "/assets/favicon/firefox_app_128x128.png",
+    "512": "/assets/favicon/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "GuestBell",
+    "url": "https://guestbell.com"
+  }
+}
