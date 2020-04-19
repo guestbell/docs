@@ -6,8 +6,6 @@
   "lang": "en-US",
   "display": "standalone",
   "orientation": "any",
-  "scope": "/",
-  "start_url": "/",
   "background_color": "#323232",
   "theme_color": "white",
   "icons": [
