@@ -14,8 +14,13 @@
   - [Rooms](rooms.md)
   - [Agile Boards](agile.md)
   - [Property](property.md)
+- Developers
+  - [Api integrations](api-integrations.md)
+  - [Api keys](api-keys.md)
+  - [Webhooks](webhooks.md)
 - [FAQ](faq.md)
 - **Links**
 - [![Guest App](https://icongr.am/feather/user.svg?size=16&color=808080)GuestApp](https://guest.guestbell.com)
 - [![DashBoard](https://icongr.am/feather/monitor.svg?color=808080&size=16)Dashboard](https://dashboard.guestbell.com)
 - [![Api](https://icongr.am/feather/code.svg?size=16&color=808080)Api](https://api.guestbell.com)
+- [![Edit docs](https://icongr.am/feather/edit.svg?size=16&color=808080)Edit docs](https://github.com/guestbell/docs)

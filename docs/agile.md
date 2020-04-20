@@ -1,6 +1,6 @@
 # Agile Boards
 
-Agile boards are a process management tool designed to help visualize workload and maximize efficiency. Agile boards use cards (representing a task) and columns (representing a status of said task). This simple visualization helps service teams to commit to the right tasks, and get it done as efficiently as possible.
+Agile boards are a process management tool designed to help visualize workload and maximize efficiency. Agile boards use cards (representing a task) and columns (representing a status of said task). This simple visualization helps service teams to commit to the right tasks and get it done as efficiently as possible.
 
 ## Orders
 
