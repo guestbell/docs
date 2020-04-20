@@ -21,6 +21,7 @@ GuestBell solution for guest include 3 important features:
 - Homepage
 - Services
 - Chat
+
 You have choice which one you want to use for your property. 
 
 ### Location
@@ -28,6 +29,8 @@ This section include additional information about your property like address, co
 
 ![edit property](https://static.guestbell.com/img/docs/property/propertyOptions.jpg)
 
+## Setup Property
+After creating your Plan/Subscription you need to setup Property. You can use search box and find your property which will pre-fill all basic available information or you can simply fill them on your own.
+At the end click button below to **ADD Property**
 
-
-## Create Property
+![edit property](https://static.guestbell.com/img/docs/property/propertySetup.jpg)
