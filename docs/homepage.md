@@ -39,4 +39,4 @@ This Mode give you option to adjust size of Content Items. Simply switch to this
 
 We can use Resize Mode only between two Content Items. That means that will make one content bigger and one smaller. See image to better understand this Mode.
 
-![Resize Mode](https://static.guestbell.com/img/docs/homepage/homepageResizeMode.jpg)
+![Resize Mode](https://static.guestbell.com/img/docs/homepage/homepageResizeMode1.jpg)
