@@ -14,6 +14,7 @@
   - [Rooms](rooms.md)
   - [Agile Boards](agile.md)
   - [Property](property.md)
+  - [Homepage](homepage.md)
 - Developers
   - [Api integrations](api-integrations.md)
   - [Api keys](api-keys.md)
