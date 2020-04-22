@@ -87,7 +87,7 @@ Use this option to share video with your guest if you have video uploaded on you
 ## Background
 You can do real magic with this amazing content Item. Best to see what it can to is to use one of the Templates. Background Content Item consist of Image/Background and Text when you place it into Content Area. Simply said, you can create colorful background with Text. Background offers you options to Upload Image, Pick Color or even make Gradient. 
 
-This is example of using Background with Image Option and no text. To see Options of Background content you need to click on Border of Content Image.
+This is example of using Background with Image Option and no text. As this Content Items consist of Background and Text (in this example we removed Text Content) to see Options of Background content you need to click on Border of Content Image.
 
 There is few other Option in Background Image Modal, like **ON/OFF, Is Parallax, Darken, Lighten, Use Padding.**
 
@@ -96,3 +96,7 @@ There is few other Option in Background Image Modal, like **ON/OFF, Is Parallax,
 You can also Add Color and setup Opacity to see Color and Image at the same time. Not mention you can even do Gradient. There is few other Option in Background Color Modal, like **ON/OFF, Darken, Lighten, Use Padding.**
 
 ![Background Content Item](https://static.guestbell.com/img/docs/homepage/homepageBackground2.jpg)
+
+Here we have example of Background with Text being place inside of another Background Content Item.
+
+![Background Content Item](https://static.guestbell.com/img/docs/homepage/homepageBackground3.jpg)
