@@ -40,3 +40,59 @@ This Mode give you option to adjust size of Content Items. Simply switch to this
 We can use Resize Mode only between two Content Items. That means that will make one content bigger and one smaller. See image to better understand this Mode.
 
 ![Resize Mode](https://static.guestbell.com/img/docs/homepage/homepageResizeMode1.jpg)
+
+## Text
+Content Item Text has rich options. At the bottom Modal from left you have:
+- Headings
+- Font Size
+- Text Color
+- 4 Options of Text Alignment
+- Bulleted List
+- Numbered List
+- Link
+- Quote
+- Draft - you can switch on this option if you wish to temporary hide content
+- Duplicate - copy content item
+- Delete
+
+You have also quick options right in the text content **Bold, Italic, Underline, Link, Text Color**. At the bottom Modal you have options of **Draft, Duplicate, Delete**, which is standard options for every Content Item.
+
+![Text Content Item](https://static.guestbell.com/img/docs/homepage/homepageText.jpg)
+
+## Spacer
+Spacer is used to adjust height of content items or create space between content items. Place Spacer to content area and move bottom part of Spacer to change height.
+
+![Spacer Content Item](https://static.guestbell.com/img/docs/homepage/homepageSpacer.jpg)
+
+## Image
+Place Image Content Item into Area content and use Bottom Modal to upload/choose Image. You can switch between Size Modes.
+
+![Image Content Item](https://static.guestbell.com/img/docs/homepage/homepageUrlVideo.jpg)
+
+## Embedded Video
+You can also share video with your guests. Use this option if you have url youtube/vimeo link to your video. Copy link url link and place it in the Bottom Modal.  
+
+![Video Content Item](https://static.guestbell.com/img/docs/homepage/homepageUrlVideo.jpg)
+
+## Divider
+Divider represent simple and elegant tool to separate content. 
+
+![Divider Content Item](https://static.guestbell.com/img/docs/homepage/homepageDivider.jpg)
+
+## Uploaded Video
+Use this option to share video with your guest if you have video uploaded on your server.
+
+![Video Content Item](https://static.guestbell.com/img/docs/homepage/homepageUploadVideo.jpg)
+
+## Background
+You can do real magic with this amazing content Item. Best to see what it can to is to use one of the Templates. Background Content Item consist of Image/Background and Text when you place it into Content Area. Simply said, you can create colorful background with Text. Background offers you options to Upload Image, Pick Color or even make Gradient. 
+
+This is example of using Background with Image Option and no text. To see Options of Background content you need to click on Border of Content Image.
+
+There is few other Option in Background Image Modal, like **ON/OFF, Is Parallax, Darken, Lighten, Use Padding.**
+
+![Background Content Item](https://static.guestbell.com/img/docs/homepage/homepageBackground1.jpg)
+
+You can also Add Color and setup Opacity to see Color and Image at the same time. Not mention you can even do Gradient. There is few other Option in Background Color Modal, like **ON/OFF, Darken, Lighten, Use Padding.**
+
+![Background Content Item](https://static.guestbell.com/img/docs/homepage/homepageBackground2.jpg)
