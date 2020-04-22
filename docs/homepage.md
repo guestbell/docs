@@ -85,7 +85,7 @@ Use this option to share video with your guest if you have video uploaded on you
 ![Video Content Item](https://static.guestbell.com/img/docs/homepage/homepageUploadVideo.jpg)
 
 ## Background
-You can do real magic with this amazing content Item. Best to see what it can to is to use one of the Templates. Background Content Item consist of Image/Background and Text when you place it into Content Area. Simply said, you can create colorful background with Text. Background offers you options to Upload Image, Pick Color or even make Gradient. 
+You can do real magic with this amazing content Item. Best to see what it can to is to use one of the Templates. Background Content Item consist of Background and Text when you place it into Content Area. Simply said, you can create colorful background with Text. Background offers you options to Upload Image, Pick Color or even make Gradient. 
 
 This is example of using Background with Image Option and no text. As this Content Items consist of Background and Text (in this example we removed Text Content) to see Options of Background content you need to click on Border of Content Image.
 
