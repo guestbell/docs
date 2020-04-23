@@ -15,6 +15,7 @@
   - [Agile Boards](agile.md)
   - [Property](property.md)
   - [Homepage](homepage.md)
+  - [Plan](plan.md)
 - Developers
   - [Api integrations](api-integrations.md)
   - [Api keys](api-keys.md)
