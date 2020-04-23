@@ -20,7 +20,7 @@ You can find all information about your plan after clicking **Details** Button.
 
 ## Modify Plan
 
-At any time of your subscription you downgrade/upgrade your plan. Changes will affect your Billing from the moment you modify your plan. If you downgrade your plan we will calculate outstanding amount and add this credit to your account. This credit will then by used to pay for your next month/year.  If you upgrade we will send you invoice for new amount by calculating difference between plans.
+At any time of your subscription you downgrade/upgrade your plan. Changes will affect your Billing from the moment you modify your plan. If you downgrade your plan we will calculate outstanding amount and add this credit to your account. This credit will then by used to pay for your next month/year. If you upgrade we will send you invoice for new amount by calculating difference between plans.
 
 ![modify plan](https://static.guestbell.com/img/docs/plan/planModify.jpg)
 
