@@ -3,6 +3,7 @@
   - [Plan](plan.md)
   - [Property](property.md)
   - [Rooms](rooms.md)
+  - [Services](services.md)
   - [Homepage](homepage.md)
   - [Orders](orders.md)
   - [Chat](chat.md)
