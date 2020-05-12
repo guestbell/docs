@@ -1,14 +1,19 @@
 # Services
-Define all the services that you offer and we can help you to promote them to you guests ensuring increased revenue as well as guest satisfaction. For adding services navigate to **Property -> Services**
-
-![services](https://static.guestbell.com/img/docs/services/itemServices.jpg)
-
-![rooms](https://static.guestbell.com/img/docs/rooms/rooms.jpg)
-
-Here you can rename Rooms, create/add Tags, check Availability and see/change Capacity of each Room. This is also place where you can Create Check-In. **Learn more about [Check-In](checkins.md).**
+Define all the services that you offer and we can help you to promote them to you guests ensuring increased revenue as well as guest satisfaction. For finding services navigate to **Property -> Services**
 
 ## Items
-Click **ADD ROOM** Button to create One or Multiple Rooms. Click tab **One** if you want to create Rooms one by one or click tab **Multiple** to add more at once.
+Items page represent default page for services. Here you can see all of the items from all groups, their rating, tags and status. If you wish to add or change tag simply click on **Change Icon** right from tag. Every item has status:
+- **Enabled** - guest can see and order this item
+- **Disabled** - this item will be hidden
+
+![services table](https://static.guestbell.com/img/docs/services/servicesTable.jpg)
+
+### Create Service
+To create new Service click **Create Service* Button. Here you need to provide Name/Title for Service and Opening Hours which are 2 required fields. Image, Description, Tag or even Price are Optional 
+
+![services table](https://static.guestbell.com/img/docs/services/servicesCreate.jpg)
+
+### Service Details
 
 ## Groups
 
