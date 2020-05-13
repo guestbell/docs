@@ -8,21 +8,34 @@ Items page represent default page for services. Here you can see all of the item
 
 ![services table](https://static.guestbell.com/img/docs/services/servicesTable.jpg)
 
-### Create Service
-To create new Service click **Create Service* Button. Here you need to provide Name/Title for Service and Opening Hours which are 2 required fields. Image, Description, Tag or even Price are Optional 
+?> **Tip** Delete Service Items by clicking **CheckBox** in Table next to every Service and **Delete** Button will appear above Table.
 
-![services table](https://static.guestbell.com/img/docs/services/servicesCreate.jpg)
+### Create Service
+To create new Service click **Create Service** Button. Here you need to provide Name/Title for Service and Opening Hours which are 2 required fields. Image, Description, Tag or even Price are Optional.
+
+?> **Tip** Don't forget to provide price for your service otherwise your service will be Free.
+
+![services create](https://static.guestbell.com/img/docs/services/servicesCreate.jpg)
 
 ### Service Details
+Navigate to Service Details by clicking on **Details** Button in table next to every service. Here you can find all information which can be easily edited. 
+
+![services table](https://static.guestbell.com/img/docs/services/servicesDetails.jpg)
 
 ## Groups
+Every service item needs to belong in Group Service. Group Services can share same service items. To see and create Service Groups, navigate to **Property -> Services -> Groups**
+
+### Create Service Group
+To create new Service Group click **Create Service Group** Button. Here you need to only provide Name/Title for Service Group. Image, Description, Tag, Pick Service are Optional. In Pick Service you can add existing Services to Group. Every Service Items has Opening hours which will be used to validate availability. Opening Hours for Group Services are just informational. These hours will be used as default when you directly create Service Item in Service Groups.
+
+?> **Tip** Don't forget to provide price for your service otherwise your service will be Free.
+
+![services create](https://static.guestbell.com/img/docs/services/servicesGroups.jpg)
+
+### Service Group Details
+Navigate to Service Details by clicking on **Details** Button in table next to every service. Here you can find all information which can be easily edited. 
+
+![services table](https://static.guestbell.com/img/docs/services/servicesDetails.jpg)
 
 ## Opening Hours
 
-![create rooms](https://static.guestbell.com/img/docs/rooms/roomsCreate.jpg)
-
-If you wish to add Multiple Rooms with same letter name but different number tick **Show Advanced Options** For example you want 10 Rooms to by named Deluxe Suite with number from 500 to 509. Fill Deluxe Suite into **Room Names Template** set first **Room Number** to 500, increment to 1 (you can change increment to any number, which will effect creating room numbers) and then enter amount of Rooms into **Rooms Count**.
-
-![advanced rooms](https://static.guestbell.com/img/docs/rooms/roomsAdvanced.jpg)
-
-After you fill in all details mentioned above you can verify **Room Names** which will appear right under.
