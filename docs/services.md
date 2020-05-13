@@ -23,21 +23,21 @@ Navigate to Service Details by clicking on **Details** Button in table next to e
 ![services table](https://static.guestbell.com/img/docs/services/servicesDetails.jpg)
 
 ## Groups
-Every service item needs to belong in Service Groups. Services Groups can share same service items. To see and create Service Groups, navigate to **Property -> Services -> Groups**
+Every service item needs to belong in Service Groups. Services Groups can share same service items. In Service Groups Table you can see and change Tags, Status and how many Service Items has every Group. To see and create Service Groups, navigate to **Property -> Services -> Groups**
 
 ![service groups](https://static.guestbell.com/img/docs/services/servicesGroups.jpg)
+
+?> **Tip** Deleting Service Group will not delete Service Items in this Group. 
 
 ### Create Service Groups
 To create new Service Groups click **Create Service Group** Button. Here you need to only provide Name/Title for Service Group. Image, Description, Tag, Pick Service are Optional. In Pick Service you can add existing Services to Group. Every Service Items has Opening hours which will be used to validate availability. Opening Hours for Group Services are just informational. These hours will be used as default when you directly create Service Item in Service Groups.
 
-?> **Tip** Don't forget to provide price for your service otherwise your service will be Free.
-
 ![service groups create](https://static.guestbell.com/img/docs/services/servicesGroupsCreate.jpg)
 
-### Service Group Details
-Navigate to Service Details by clicking on **Details** Button in table next to every service. Here you can find all information which can be easily edited. 
+### Service Groups Details
+Navigate to Service Groups Details by clicking on **Details** Button in table next to every group. Here you can find all information which can be easily edited. In the Section Services you can add Items by clicking **Pick** Button or create Items by clicking **New** Button.
 
-![services table](https://static.guestbell.com/img/docs/services/servicesDetails.jpg)
+![services table](https://static.guestbell.com/img/docs/services/servicesGroupsDetails.jpg)
 
 ## Opening Hours
 
