@@ -50,7 +50,7 @@ To create new Opening Hours click **CREATE OPENING HOURS** Button. Here you need
 
 ![service groups create](https://static.guestbell.com/img/docs/services/servicesHoursCreate.jpg)
 
-At the bottom of Opening Hours we have Special Day. Click **ADD** Button if you wish to create Opening Hours for Specific Date. 
+At the bottom of Opening Hours we have **Special Day**. Click **ADD** Button if you wish to create Opening Hours for Specific Date. 
 
 ![service groups create](https://static.guestbell.com/img/docs/services/servicesHoursSpecialDay.jpg)
 
