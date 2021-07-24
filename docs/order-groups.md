@@ -1,4 +1,4 @@
-# Orders groups
+# Order groups
 
 GuestBell comes equipped with a powerful POS. It allows your guests to easily order for the catalogue of your services. Order groups makes our POS even more useful.
 
