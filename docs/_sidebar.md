@@ -6,7 +6,7 @@
   - [Services](services.md)
   - [Homepage](homepage.md)
   - [Orders](orders.md)
-  - [Order groups](orders-groups.md)
+  - [Order groups](order-groups.md)
   - [Chat](chat.md)
   - [Staff](staff.md)
   - [Permissions](permissions.md)
