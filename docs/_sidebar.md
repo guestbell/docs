@@ -18,6 +18,7 @@
   - [Reviews](reviews.md)
   - [Agile Boards](agile.md)
   - [Tags](tags.md)
+  - [Inventory](inventory.md)
 - Developers
   - [Api integrations](api-integrations.md)
   - [Api keys](api-keys.md)
