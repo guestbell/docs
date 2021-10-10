@@ -19,6 +19,7 @@
   - [Agile Boards](agile.md)
   - [Tags](tags.md)
   - [Inventory](inventory.md)
+  - [Locations](locations.md)
   - [Schedules](schedules.md)
 - Developers
   - [Api integrations](api-integrations.md)
