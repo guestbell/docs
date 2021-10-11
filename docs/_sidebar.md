@@ -1,27 +1,34 @@
 - [Dashboard Basics](overview.md)
-- Topics
+- **Configuration**
+  Property
   - [Plan](plan.md)
-  - [Property](property.md)
+  - [Edit property](property.md)
   - [Rooms](rooms.md)
-  - [Services](services.md)
   - [Homepage](homepage.md)
-  - [Orders](orders.md)
-  - [Order groups](order-groups.md)
-  - [Chat](chat.md)
   - [Staff](staff.md)
   - [Permissions](permissions.md)
   - [Languages](languages.md)
-  - [Images](images.md)
-  - [Check-In](checkins.md)
-  - [Integrations](integrations.md)
-  - [Guests](guests.md)
-  - [Reviews](reviews.md)
-  - [Agile Boards](agile.md)
   - [Tags](tags.md)
+  - [Images](images.md)
+    Services
+  - [Services](services.md)
+  - [Opening hours](opening-hours.md)
   - [Inventory](inventory.md)
   - [Locations](locations.md)
+  - [Order groups](order-groups.md)
+- **During guest stay**
+  Check-ins
+  - [Check-In](checkins.md)
+  - [Guests](guests.md)
+    Orders
   - [Schedules](schedules.md)
-- Developers
+  - [Reviews](reviews.md)
+  - [Orders](orders.md)
+  - [Agile Boards](agile.md)
+    Chat
+  - [Chat](chat.md)
+- **Developers**
+  - [Integrations](integrations.md)
   - [Api integrations](api-integrations.md)
   - [Api keys](api-keys.md)
   - [Webhooks](webhooks.md)

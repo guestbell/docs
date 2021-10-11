@@ -49,16 +49,4 @@ Navigate to Service Groups Details by clicking on **DETAILS** Button in table ne
 
 ## Opening Hours
 
-Every Service Item needs to have Opening Hours. Services can share Opening Hours. Edit Existing Opening Hours by clicking on **EDIT** Button in table next to every Opening Hours. To see and create Opening Hours, navigate to **Property -> Services -> Opening Hours**
-
-![service groups](https://static.guestbell.com/img/docs/services/servicesHours.jpg)
-
-### Create Opening Hours
-
-To create new Opening Hours click **CREATE OPENING HOURS** Button. Here you need to provide Name/Title and Setup Times. By default, the service will be available 24/7. Unchecked CheckBox 24/7 to adjust Opening Hours. You can use **STANDARD DAY** to apply same opening hours to multiple days. You can easily create a "break" by clicking the **ADD** button multiple times and changing the _Open_ and _Closes_ times.
-
-![service groups create](https://static.guestbell.com/img/docs/services/servicesHoursCreate.jpg)
-
-At the bottom of Opening Hours we have **Special Days**. Click **ADD** Button if you wish to create Opening Hours for a Specific Date.
-
-![service groups create](https://static.guestbell.com/img/docs/services/servicesHoursSpecialDay.jpg)
+Every Service Item needs to have Opening Hours. Services can share Opening Hours. Edit Existing Opening Hours by clicking on **EDIT** Button in table next to every Opening Hours. You can learn more about opening hours [here](opening-hours.md)
