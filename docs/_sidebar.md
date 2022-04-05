@@ -10,16 +10,20 @@
   - [Languages](languages.md)
   - [Tags](tags.md)
   - [Images](images.md)
+  - [Check-in QR codes](self-check-in-code.md)
     Services
   - [Services](services.md)
   - [Opening hours](opening-hours.md)
   - [Inventory](inventory.md)
   - [Locations](locations.md)
   - [Order groups](order-groups.md)
+  - [Packages](packages.md)
 - **During guest stay**
   Check-ins
   - [Check-In](checkins.md)
   - [Guests](guests.md)
+  - [Kiosk](self-check-in-kiosk.md)
+  - [Tips](tips.md)
     Orders
   - [Schedules](schedules.md)
   - [Reviews](reviews.md)

@@ -8,6 +8,10 @@ figure.thumbnails img {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1), 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
+img {
+  image-rendering: -webkit-optimize-contrast;
+}
+
 @media (min-width: 30em) {
   figure.thumbnails:after {
     content: "";
@@ -35,7 +39,7 @@ figure.thumbnails img {
       width: 0;
     }
 
-    figure.thumbnails img+img {
+    figure.thumbnails img + img {
       margin: 0 0 0 1.5em;
     }
   }
