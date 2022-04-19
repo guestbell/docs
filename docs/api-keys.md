@@ -1,3 +1,5 @@
+?> This is an **Advanced features**. Make sure [it's enabled](overview.md?id=advanced-features) if you cannot find it in the dashboard.
+
 # Api keys
 
 You can find api keys in **Property -> Developers -> Api keys**

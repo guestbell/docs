@@ -1,3 +1,5 @@
+?> This is an **Advanced features**. Make sure [it's enabled](overview.md?id=advanced-features) if you cannot find it in the dashboard.
+
 # Inventory
 
 GuestBell comes with a powerful and easy to set-up inventory management system. Your inventory will also be automatically updated every time an order is placed/delivered.

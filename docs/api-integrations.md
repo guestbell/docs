@@ -1,3 +1,5 @@
+?> This is an **Advanced features**. Make sure [it's enabled](overview.md?id=advanced-features) if you cannot find it in the dashboard.
+
 # Api Integrations
 
 It is common for modern applications, machines and services to communicate with each other. This process is commonly called **Integration**. There are 2 kinds of communication. We will call these **IN-Integration** and **OUT-Integration**.

@@ -1,3 +1,5 @@
+?> This is an **Advanced features**. Make sure [it's enabled](overview.md?id=advanced-features) if you cannot find it in the dashboard.
+
 # Webhooks
 
 You can find webhooks in **Property -> Developers -> Webhooks**

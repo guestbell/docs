@@ -1,3 +1,5 @@
+?> This is an **Advanced features**. Make sure [it's enabled](overview.md?id=advanced-features) if you cannot find it in the dashboard.
+
 # Locations
 
 GuestBell offer an option to create and assign specific locations to service items. This way, the guests can decide where the delivery will take place.

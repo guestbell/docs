@@ -1,3 +1,5 @@
+?> This is an **Advanced features**. Make sure [it's enabled](overview.md?id=advanced-features) if you cannot find it in the dashboard.
+
 # Self check-in QR codes
 
 ?> **Tip** Self check-in QR codes are only applicable if you have enabled self check-in functionality. You can find out more in [check-ins documentation](checkins.md?id=self-check-in)

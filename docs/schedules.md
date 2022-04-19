@@ -1,3 +1,5 @@
+?> This is an **Advanced features**. Make sure [it's enabled](overview.md?id=advanced-features) if you cannot find it in the dashboard.
+
 # Schedules
 
 GuestBell is capable of acting as a booking system for activities. You can easily set up activities that operate in **time-spans** (such as a massage), as well as ones that use a custom **time-range** like renting bicycles. You can enable this by navigating to your opening hours and changing the Type to either **time-span** or **time-range**. It is also recommended to tick the "Use Capacity" checkbox and configure capacity for configured opening hours. This will allow you to not only track the bookings, but also automatically manage limits for capacity.

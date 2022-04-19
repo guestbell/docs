@@ -1,3 +1,5 @@
+?> This is an **Advanced features**. Make sure [it's enabled](overview.md?id=advanced-features) if you cannot find it in the dashboard.
+
 # Order groups
 
 GuestBell comes equipped with a powerful POS. It allows your guests to easily order for the catalogue of your services. Order groups makes our POS even more useful.

@@ -33,3 +33,11 @@ First top right corner icon is dedicated to Options, where you have:
 - Log Out.
 
 ![options](https://static.guestbell.com/img/docs/overview/optionsAccount.jpg)
+
+### Advanced features
+
+As GuestBell grew, we kept adding more and more features to make sure we cover all of our customers' use cases. On the other hand, it was always our goal to ensure GuestBell is easy to use/understand and quick to set up.
+
+This is why we have added **Advanced features** switch. You can use it to disable/enable a simplified version of our dashboard.
+
+![options](https://static.guestbell.com/img/docs/overview/advancedMode.png)
