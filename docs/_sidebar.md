@@ -1,3 +1,4 @@
+- [Getting started](getting-started.md)
 - [Dashboard Basics](overview.md)
 - **Configuration**
   Property
