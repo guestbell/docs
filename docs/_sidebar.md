@@ -12,7 +12,8 @@
   - [Tags](tags.md)
   - [Images](images.md)
   - [Check-in QR codes](self-check-in-code.md)
-    Services
+  - [Property check-in code](property-check-in-code.md)
+  Services
   - [Services](services.md)
   - [Opening hours](opening-hours.md)
   - [Inventory](inventory.md)

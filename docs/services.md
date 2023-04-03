@@ -50,3 +50,7 @@ Navigate to Service Groups Details by clicking on **DETAILS** Button in table ne
 ## Opening Hours
 
 Every Service Item needs to have Opening Hours. Services can share Opening Hours. Edit Existing Opening Hours by clicking on **EDIT** Button in table next to every Opening Hours. You can learn more about opening hours [here](opening-hours.md)
+
+## Shared schedule item
+
+Imagine you want to create customizable breakfast. Guests will be able to choose main, side, drink etc. But you also want to reserve timeslots for the breakfast. If you simply set the timeslots up for each of the items, each of them would take up a slot. What we want is for the breakfast as a whole to take up a timeslot. In this case, you would simply create a **Share schedule item** called Breakfast. This will be invisible to guests and added to the order automatically to hold the timeslot.
