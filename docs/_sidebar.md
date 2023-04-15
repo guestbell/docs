@@ -18,7 +18,7 @@
   - [Opening hours](opening-hours.md)
   - [Inventory](inventory.md)
   - [Locations](locations.md)
-  - [Order groups](order-groups.md)
+  - [Departments](order-groups.md)
   - [Packages](packages.md)
 - **During guest stay**
   Check-ins
