@@ -4,9 +4,9 @@ GuestBell is capable of acting as a booking system for activities. You can easil
 
 ## Visualizing activities bookings on the Reservations page
 
-Start by navigating to **Schedules**. Use the text box on this page to find opening hours whose schedule you want to explore. Once you pick the opening hours from the dropdown, a following table will appear.
+Start by navigating to **Reservations**. Use the text box on this page to find opening hours whose schedule you want to explore. Once you pick the opening hours from the dropdown, a following table will appear.
 
-![Schedules](https://static.guestbell.com/img/docs/schedules/schedules.jpg)
+![Reservations](https://static.guestbell.com/img/docs/schedules/schedules.jpg)
 
 This table contains the following areas of interest:
 
