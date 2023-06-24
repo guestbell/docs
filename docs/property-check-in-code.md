@@ -8,7 +8,7 @@ This code, consisting of six letters or numbers, acts as an added layer of secur
 
 ## Setup
 
-You can setup **Property check-in code** by navigating to **Property -> Edit property** in the sidebar, and opening the **Self check-in** section. Note that you will need to enable [advanced features](overview.md?id=advanced-features) to see this section.
+You can setup **Property check-in code** by navigating to **Property -> Edit property** in the sidebar, and opening the **Self check-in** section. Note that you will need to enable [Expert mode](overview.md?id=advanced-features) to see this section.
 
 ## Improving user experience
 
